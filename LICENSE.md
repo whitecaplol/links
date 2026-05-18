@@ -1,3 +1,5 @@
+Copyright (c) 2026 whitecaplol
+
 Creative Commons Attribution 4.0 International Public License
 
 By exercising the Licensed Rights (defined below), You accept and agree
